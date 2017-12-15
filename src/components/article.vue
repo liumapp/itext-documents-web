@@ -92,12 +92,7 @@
                     <i-col span="5" offset="2">
                         <div class="footer-aside">
                             <div class="footer-logo">
-                                <img src="../images/logo.png">
-                            </div>
-                            <div class="footer-author">
-                                <a href="https://www.talkingdata.com/">
-                                    <img src="../images/logo-td.png">
-                                </a>
+                                <img src="../images/itext_nav.png">
                             </div>
                         </div>
                     </i-col>

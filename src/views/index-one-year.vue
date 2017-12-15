@@ -26,8 +26,7 @@
             <Row type="flex" justify="center" align="middle" style="position: relative;z-index: 3">
                 <i-col span="24">
                     <h1>
-                        <img src="../images/logo.png" class="img-logo">
-                        <img src="../images/name.png" class="img-name">
+                        <img src="../images/itext.png" class="img-logo">
                     </h1>
                     <div class="list">
                         <div class="list-a">

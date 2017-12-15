@@ -1,7 +1,7 @@
 export default {
     'zh-CN': {
         index: {
-            title: '一套基于 Vue.js 的高质量 UI 组件库',
+            title: '为Java和.NET开发人员提供简单的PDF生成和操作库',
             guide: '指南',
             component: '组件',
             practice: '实践',
@@ -31,7 +31,7 @@ export default {
     },
     'en-US': {
         index: {
-            title: 'A high quality UI Toolkit based on Vue.js',
+            title: 'Easy PDF generation and manipulation for Java and .NET developers',
             guide: 'Guide',
             component: 'Components',
             practice: 'Practice',
